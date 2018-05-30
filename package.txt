@@ -3,3 +3,5 @@ VERSION=1.2.11
 REVISION=1
 SRC=http://zlib.net/zlib-1.2.11.tar.xz
 SRCMD5=85adef240c5f370b308da8c938951a68
+OPTIONS=bootstrap|release
+DEFAULTS=release
